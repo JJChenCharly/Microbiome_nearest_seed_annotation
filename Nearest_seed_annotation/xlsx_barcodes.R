@@ -273,7 +273,7 @@ for (x in seq(23, 1)) {
   }
 }#20
 
-substr(rev_comp, 20, 24) # 5
+# substr(rev_comp, 20, 24) # 5
 
 
 # for LM ----
