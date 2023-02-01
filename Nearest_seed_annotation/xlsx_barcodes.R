@@ -18,7 +18,7 @@ library(tidyr)
 library(utils)
 
 # test reading ----
-test <- read_excel(".xlsx",
+test <- read_excel("tag_all/Tag list FL_amplicon_1_LM1_correct.xlsx",
                    sheet = 1)
 
 # test["1", 1]
